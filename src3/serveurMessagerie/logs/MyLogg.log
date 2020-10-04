@@ -1,0 +1,132 @@
+[INFO ] 2020-10-02 17:17:31.822 [main] Main - The programm terminated normaly.
+[TRACE] 2020-10-02 17:17:48.374 [main] Main - *******************************************************
+[TRACE] 2020-10-02 17:17:48.377 [main] Main - Server is starting 02/10/2020 at 15:17:48.366054900Z
+[TRACE] 2020-10-02 17:17:48.378 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-02 17:17:48.378 [main] Main - class model.ModelServerSocket start
+[TRACE] 2020-10-02 17:20:32.791 [main] Main - *******************************************************
+[TRACE] 2020-10-02 17:20:32.794 [main] Main - Server is starting 02/10/2020 at 15:20:32.783326500Z
+[TRACE] 2020-10-02 17:20:32.795 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-02 17:20:32.802 [main] Main - class model.ModelServerSocket start
+[TRACE] 2020-10-02 21:58:40.698 [main] Main - *******************************************************
+[TRACE] 2020-10-02 21:58:40.710 [main] Main - Server is starting 02/10/2020 at 19:58:40.683278Z
+[TRACE] 2020-10-02 21:58:40.710 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-02 21:58:40.710 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-02 22:01:07.389 [main] Main - *******************************************************
+[TRACE] 2020-10-02 22:01:07.391 [main] Main - Server is starting 02/10/2020 at 20:01:07.381762600Z
+[TRACE] 2020-10-02 22:01:07.392 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-02 22:01:07.393 [main] Main - class model.ModelServerSocket start at port : 8080
+[INFO ] 2020-10-03 16:19:01.510 [main] Main - *******************************************************
+[INFO ] 2020-10-03 16:19:01.513 [main] Main - Server is starting 03/10/2020 at 14:19:01.500169500Z
+[TRACE] 2020-10-03 16:19:01.514 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 16:19:01.516 [main] Main - class model.ModelServerSocket start at port : 8080
+[INFO ] 2020-10-03 16:50:14.456 [main] Main - *******************************************************
+[INFO ] 2020-10-03 16:50:14.466 [main] Main - Server is starting 03/10/2020 at 14:50:14.448013800Z
+[TRACE] 2020-10-03 16:50:14.467 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 16:50:14.470 [main] Main - class model.ModelServerSocket start at port : 8080
+[INFO ] 2020-10-03 16:52:27.623 [main] Main - *******************************************************
+[INFO ] 2020-10-03 16:52:27.625 [main] Main - Server is starting 03/10/2020 at 14:52:27.613230200Z
+[TRACE] 2020-10-03 16:52:27.626 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 16:52:27.628 [main] Main - class model.ModelServerSocket start at port : 8080
+[INFO ] 2020-10-03 16:54:02.698 [main] Main - *******************************************************
+[INFO ] 2020-10-03 16:54:02.700 [main] Main - Server is starting 03/10/2020 at 14:54:02.689069300Z
+[TRACE] 2020-10-03 16:54:02.702 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 16:54:02.708 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 16:54:02.708 [main] Main -  for a duration of 5000 ms
+[INFO ] 2020-10-03 17:02:08.204 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:02:08.206 [main] Main - Server is starting 03/10/2020 at 15:02:08.195750700Z
+[TRACE] 2020-10-03 17:02:08.207 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:02:08.209 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:02:08.210 [main] Main -  for a duration of 5000 ms
+[INFO ] 2020-10-03 17:03:45.535 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:03:45.537 [main] Main - Server is starting 03/10/2020 at 15:03:45.526021400Z
+[TRACE] 2020-10-03 17:03:45.538 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:03:45.540 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:03:45.541 [main] Main -  for a duration of 500 ms
+[INFO ] 2020-10-03 17:05:04.098 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:05:04.100 [main] Main - Server is starting 03/10/2020 at 15:05:04.089115200Z
+[TRACE] 2020-10-03 17:05:04.101 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:05:04.104 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:05:04.104 [main] Main -  for a duration of 5000 ms
+[TRACE] 2020-10-03 17:05:09.105 [main] Main - class model.ModelServerSocket close
+[INFO ] 2020-10-03 17:05:09.105 [main] Main - The server runned durring 5009 ms
+[ERROR] 2020-10-03 17:05:09.116 [main] Main - 0 - Problem with closing the socket !
+[ERROR] 2020-10-03 17:05:09.117 [main] Main - The programm terminated abnormaly !!!
+[INFO ] 2020-10-03 17:09:19.795 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:09:19.797 [main] Main - Server is starting 03/10/2020 at 15:09:19.786064Z
+[TRACE] 2020-10-03 17:09:19.798 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:09:19.801 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:09:19.801 [main] Main -  for a duration of 5000 ms
+[INFO ] 2020-10-03 17:09:24.802 [main] Main - The server runned durring 5009 ms
+[ERROR] 2020-10-03 17:09:24.804 [main] Main - 11 - Problem with opening the socket !
+[ERROR] 2020-10-03 17:09:24.804 [main] Main - The programm terminated abnormaly !!!
+[INFO ] 2020-10-03 17:13:19.371 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:13:19.373 [main] Main - Server is starting 03/10/2020 at 15:13:19.362261900Z
+[TRACE] 2020-10-03 17:13:19.375 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:13:19.377 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:13:19.377 [main] Main -  for a duration of 5000 ms
+[INFO ] 2020-10-03 17:13:24.377 [main] Main - The server runned durring 5008 ms
+[ERROR] 2020-10-03 17:13:24.379 [main] Main - 11 - Problem with opening the socket !
+[ERROR] 2020-10-03 17:13:24.379 [main] Main - The programm terminated abnormaly !!!
+[INFO ] 2020-10-03 17:22:16.682 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:22:16.685 [main] Main - Server is starting 03/10/2020 at 15:22:16.673844600Z
+[TRACE] 2020-10-03 17:22:16.686 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:22:16.688 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:22:16.688 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 17:22:26.690 [main] Main - The server runned durring 10010 ms
+[ERROR] 2020-10-03 17:22:26.691 [main] Main - 11 - Problem with opening the socket !
+[ERROR] 2020-10-03 17:22:26.691 [main] Main - The programm terminated abnormaly !!!
+[INFO ] 2020-10-03 17:24:09.720 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:24:09.722 [main] Main - Server is starting 03/10/2020 at 15:24:09.710647Z
+[TRACE] 2020-10-03 17:24:09.723 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:24:09.726 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:24:09.726 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 17:24:19.727 [main] Main - The server runned durring 10009 ms
+[INFO ] 2020-10-03 17:24:19.729 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-03 17:33:13.513 [main] Main - *******************************************************
+[INFO ] 2020-10-03 17:33:13.515 [main] Main - Server is starting 03/10/2020 at 15:33:13.504131200Z
+[TRACE] 2020-10-03 17:33:13.516 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 17:33:13.519 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 17:33:13.519 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 17:33:23.519 [main] Main - The server runned durring 10008 ms
+[INFO ] 2020-10-03 17:33:23.520 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-03 17:33:23.521 [main] Main - The programm terminated normaly.
+[INFO ] 2020-10-03 18:52:56.617 [main] Main - *******************************************************
+[INFO ] 2020-10-03 18:52:56.626 [main] Main - Server is starting 03/10/2020 at 16:52:56.608190300Z
+[TRACE] 2020-10-03 18:52:56.627 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 18:52:56.629 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 18:52:56.630 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 18:53:06.630 [main] Main - The server runned durring 10015 ms
+[INFO ] 2020-10-03 18:53:06.644 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-03 18:53:06.644 [main] Main - The programm terminated normaly.
+[INFO ] 2020-10-03 18:53:48.024 [main] Main - *******************************************************
+[INFO ] 2020-10-03 18:53:48.027 [main] Main - Server is starting 03/10/2020 at 16:53:48.014535300Z
+[TRACE] 2020-10-03 18:53:48.028 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 18:53:48.033 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 18:53:48.033 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 18:53:58.034 [main] Main - The server runned durring 10012 ms
+[INFO ] 2020-10-03 18:53:58.035 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-03 18:53:58.035 [main] Main - The programm terminated normaly.
+[INFO ] 2020-10-03 19:00:45.631 [main] Main - *******************************************************
+[INFO ] 2020-10-03 19:00:45.633 [main] Main - Server is starting 03/10/2020 at 17:00:45.622101300Z
+[TRACE] 2020-10-03 19:00:45.634 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-03 19:00:45.636 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-03 19:00:45.637 [main] Main -  for a duration of 10000 ms
+[INFO ] 2020-10-03 19:00:55.637 [main] Main - The server runned durring 10009 ms
+[INFO ] 2020-10-03 19:00:55.639 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-03 19:00:55.639 [main] Main - The programm terminated normaly.
+[INFO ] 2020-10-04 12:31:52.745 [main] Main - *******************************************************
+[INFO ] 2020-10-04 12:31:52.748 [main] Main - Server is starting 04/10/2020 at 10:31:52.735536400Z
+[TRACE] 2020-10-04 12:31:52.750 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-04 12:31:52.753 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-04 12:31:52.753 [main] Main -  for a duration of 100 s
+[INFO ] 2020-10-04 12:33:32.755 [main] Main - The server runned durring 100012 ms
+[INFO ] 2020-10-04 12:33:32.756 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-04 12:33:32.756 [main] Main - The programm terminated normaly.
+[INFO ] 2020-10-04 16:06:25.023 [main] Main - *******************************************************
+[INFO ] 2020-10-04 16:06:25.025 [main] Main - Server is starting 04/10/2020 at 14:06:25.013390600Z
+[TRACE] 2020-10-04 16:06:25.027 [main] Main - class control.ControlSocketServer
+[TRACE] 2020-10-04 16:06:25.031 [main] Main - class model.ModelServerSocket start at port : 8080
+[TRACE] 2020-10-04 16:06:25.032 [main] Main -  for a duration of 50 s
+[INFO ] 2020-10-04 16:07:15.033 [main] Main - The server runned durring 50013 ms
+[INFO ] 2020-10-04 16:07:15.035 [main] Main - The server closed due to a timeOut.
+[INFO ] 2020-10-04 16:07:15.035 [main] Main - The programm terminated normaly.

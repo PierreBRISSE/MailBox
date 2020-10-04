@@ -1,0 +1,12 @@
+Ce programme est une démonstration à visée professionnelle.
+Il est normal que vous trouviez des méthodes non employées.
+Le programme est évolutif, et a vocation à évoluer.
+Toutes remarques constructives est la bienvenue.
+
+Il s'agit de la partie serveur d'un service de messagerie.
+La communication se fait par webSocket.
+Avant de démarrer le programme, veuillez rentrer les paramètres pertinents pour vous dans Repertory.
+
+Vous trouverez un diagramme UML du programme dans le fichier diagram.
+
+Pierre BRISSE 04/10/2020

@@ -1,0 +1,39 @@
+100 - The programm terminated normaly.
+101 - The server closed due to a timeOut.
+
+Warnings
+--------
+110 - Format problem when reading the date.
+111 - Problem when creating the date.
+115 - Time zone is empty.
+116 - Time of the day not found.
+118 - Problem with the chronometer.
+
+Errors
+-------
+Socket :
+11 - Problem with opening the socket !
+12 - Problem with the inputStream from the socket !
+13 - Problem with closing the socket !
+14 - Problem reading the flux of data !
+15 - Socket exception !
+
+File :
+20 - The file In does not exist !
+21 - There is nothing to read !
+22 - Problem with the file In !
+25 - There is nothing to write !
+26 - It is not possible to create the file Out !
+27 - Problem with writing in the file Out !
+
+Host :
+30 - Problem URL !
+31 - URL empty !
+35 - Unknown host !
+36 - Problem with the host !
+
+Encoding :
+50 - The encoding system does not exist !
+51 - Problem with the encoding system !
+
+?? - The code does not exist !
