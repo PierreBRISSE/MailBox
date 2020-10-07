@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>MailBoxGoat</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/view/interfaceFX/goat.jpg</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/goat.jpg</locationURI>
+		</link>
+		<link>
+			<name>src/view/interfaceFX/mail.fxml</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/mail.fxml</locationURI>
+		</link>
+		<link>
+			<name>src/view/interfaceFX/welcomingPage.fxml</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/welcomingPage.fxml</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
